@@ -4,22 +4,25 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+### Mah Leest
+- **C**anned beans
+- **S**oupy steak
+- **1** bear wearing a sweater
+- **9** bottles of katchup
+- **3** striped down pennies from 2001, 2005, and 1999
 ```markdown
 Syntax highlighted code block
 
 # Header 1
 ## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
@@ -27,6 +30,7 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### Jekyll Themes
 
